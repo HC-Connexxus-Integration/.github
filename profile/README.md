@@ -11,7 +11,7 @@ This platform has everything of other integration platforms such as management i
 
 | Repository                                         | Description  |
 |--------------------------------------------------------|----------------|
-|[Healthcare Integration] (https://github.com/HC-Connexxus-Integration/IntegrationFramework/README.md)](https://github.com/HC-Connexxus-Integration/IntegrationFramework) | Healthcare Industry Integration |                                                                                                                                                                                                                                                           
+|[Healthcare Integration] (https://github.com/HC-Connexxus-Integration/IntegrationFramework) | Healthcare Industry Integration |                                                                                                                                                                                                                                                           
 
 <!--
 
